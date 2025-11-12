@@ -13,7 +13,7 @@ This project builds a real-time marketing attribution pipeline using GA4 sample 
 1. Open dbt Cloud → Run models
 2. Check tables in BigQuery dataset
 3. Connect Looker Studio → BigQuery
-4. View dashboard: [your dashboard link]
+4. View dashboard: https://lookerstudio.google.com/s/u3Mf5FjJyVc
 
 ## Folder Structure
 - models/
